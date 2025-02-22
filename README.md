@@ -26,30 +26,3 @@ Report Documentation – A detailed report covering insights from analysis.
 Final Presentation – Slide deck summarizing findings with visuals and key observations.
 About
 Cricsheet Match Data Analysis: Data scraping, Data PreProcessing, SQL, and Power BI visualization for cricket insights.
-
-Resources
- Readme
- Activity
-Stars
- 1 star
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-C
