@@ -1,7 +1,4 @@
-# Cricket_Info
-
 CRICSHEET_MATCH-DATA_ANALYSIS
-
 Cricsheet Match Data Analysis: Data scraping, Data PreProcessing, SQL, and Power BI visualization for cricket insights.
 
 Python Source Code – Script for data scraping.
@@ -24,5 +21,3 @@ Data Cleaning & Preprocessing – Handling missing values, duplicates, and outli
 Filtering & Sampling – Data filtering and sampling for optimized processing.
 Report Documentation – A detailed report covering insights from analysis.
 Final Presentation – Slide deck summarizing findings with visuals and key observations.
-About
-Cricsheet Match Data Analysis: Data scraping, Data PreProcessing, SQL, and Power BI visualization for cricket insights.
